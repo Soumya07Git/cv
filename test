@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Contact</title>
+</head>
+<body>
+    <h2>My contact</h2>
+    <ul>
+       <li>contact me :1234567</li> 
+       <li><a href="https://www.google.com/maps/place/10687+Sapphire+Trail,+Davidson,+NC+28036/@35.4502625,-80.767847,15z/data=!3m1!4b1!4m5!3m4!1s0x885403b66ba5a68f:0x577977be218c526e!8m2!3d35.4502453!4d-80.7590922">My Address</a></li>
+       <li><a href="https://www.facebook.com/soumya.karun">My Facebook</a></li>
+       <li><a href="https://www.facebook.com/soumya.karun">My instagram</a></li>
+    </ul>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ol>
+        <p>You can check on <a href="https://www.facebook.com/photo/?fbid=965725130146821&set=pob.100001280308723">My Profile</a></p>
+        <li>cooking</li>
+        <li>drawing</li>
+        <li>reading novels</li>
+        <li>photography</li>
+        <li>coding</li>
+        <li>watching documentary</li>
+    </ol>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soumya's World</title>
+</head>
+<body>
+    <img src="https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-9/10404854_965725130146821_621895144932977793_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_ohc=4VnVdaGJz5MAX_Ybu88&tn=iibknZP00MmBViu2&_nc_ht=scontent-atl3-2.xx&oh=00_AfCGP6k-xmaZylUKeswsqAB_XwAcIa4nA7AQ2zk-r_J53Q&oe=63AE889B" alt="soumyas profile">
+    <h1>Soumya</h1>
+    <p>Mother of <b> <em>two and <a href="https://www.facebook.com/photo/?fbid=965725130146821&set=pob.100001280308723">My profile</a></em></b></p>
+    <p>Home maker, artist, coder</p>
+    <hr>
+    <h2>coding lang know</h2>
+    <ul>
+        <li>Java</li>
+        <li>SQL</li>
+        <li>Python</li>
+        <li>Js</li>
+        <li>HTML and CSS</li>
+        <li>Networking</li>
+    </ul>
+    <a href="hobbies.html" target="_blank">My hobbies</a>
+    <hr>
+    <a href="contact.html" target="_blank">My Contact</a>
+    <hr>
+
+</body>
+</html>
